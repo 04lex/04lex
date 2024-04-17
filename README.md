@@ -33,7 +33,6 @@
 ## 🖥️ Workspace Setup - MacOS
 
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
-[![macOS](https://img.shields.io/badge/macOS-000000?logo=macos&logoColor=F0F0F0)](#)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 ## 📈 Stats
@@ -42,8 +41,10 @@
     <img src="https://github-profile-trophy.vercel.app/?username=04lex&row=1&column=6&margin-h=8&theme=prussian&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
     <br />
     <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=04lex&theme=prussian&show_icons=true&hide_border=false&count_private=true" alt="Daniel Lex's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=04lex&theme=prussian&show_icons=true&hide_border=false&layout=compact" hspace=10 alt="Daniel Lex's GitHub Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=04lex&theme=prussian&show_icons=true&hide_border=false&count_private=true" alt="Daniel Lex's GitHub Stats" />
     <br />
+        
 </div>
 
 ## 🔗 Links
