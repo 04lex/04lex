@@ -41,7 +41,8 @@
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=04lex&row=1&column=6&margin-h=8&theme=outrun&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
     <br />
-    <img src="[https://github-readme-stats.vercel.app/api?username=ruppysuppy&show_icons=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=04lex&theme=outrun&show_icons=true&hide_border=true&count_private=true)" alt="Daniel Lex's GitHub Stats">
+    <img src="[https://github-readme-stats.vercel.app/api?username=ruppysuppy&show_icons=true&hide_border=true](https://github-readme-stats.vercel.app/api?        
+     username=04lex&theme=outrun&show_icons=true&hide_border=true&count_private=true)" alt="Daniel Lex's GitHub Stats">
     <br />
 </div>
 
@@ -53,23 +54,3 @@
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]([https://github.com/ruppysuppy](https://github.com/04lex))
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:aalexandrua62@gmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/followbiko/)
-
-
-
-
-
-
-<!--
-**04lex/04lex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
