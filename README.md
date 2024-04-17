@@ -55,3 +55,9 @@
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]([https://github.com/ruppysuppy](https://github.com/04lex))
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:aalexandrua62@gmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/followbiko/)
+
+## ☕ Buy me a Coffee?
+If you wish to buy me a cup of **coffee**, that's much **appreciated** and you can do so from below.
+<br />
+<br />
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/04lex)
