@@ -39,7 +39,7 @@
 ## 📈 Stats
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=04lex&row=1&column=6&margin-h=8&theme=outrun&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=04lex&row=1&column=6&margin-h=8&theme=prussian&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
     <br />
     <img src="https://github-readme-stats.vercel.app/api?username=04lex&theme=outrun&show_icons=true&hide_border=false&count_private=true" alt="Daniel Lex's GitHub Stats">
     <br />
