@@ -37,15 +37,13 @@
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 ## 📈 Stats
-<!--
+
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ruppysuppy&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=04lex&row=1&column=6&margin-h=8&theme=outrun&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
     <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=ruppysuppy&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
+    <img src="[https://github-readme-stats.vercel.app/api?username=ruppysuppy&show_icons=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=04lex&theme=outrun&show_icons=true&hide_border=true&count_private=true)" alt="Daniel Lex's GitHub Stats">
     <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=ruppysuppy.ruppysuppy" alt="visitors">
 </div>
--->
 
 ## 🔗 Links
 <!-- 
